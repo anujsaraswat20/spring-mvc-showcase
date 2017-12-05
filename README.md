@@ -7,7 +7,7 @@ Includes project code along with a supporting slideshow and screen cast.
 In this showcase you'll see the following in action:
 
 * The simplest possible @Controller
-* Mapping Requests
+* Mapping Requests 
 * Obtaining Request Data
 * Generating Responses
 * Message Converters
